@@ -45,8 +45,9 @@ A student's exam marks alone do not tell us why some students perform better tha
 ![Dashboard](dashboard.png)
 
 ## Files
-- `student_performance_analysis.ipynb` - Colab notebook
-- `Student_Performance_Cleaned.csv` - cleaned dataset
-- `Student_Performance.pbix` - Power BI dashboard
+- `pbl_checking.ipynb` - Colab notebook (cleaning, analysis and charts)
+- `student_exam_performance_zip.zip` - original dataset (zipped)
+- `Student_Performance_Cleaned (1)_zip.zip` - cleaned dataset (zipped)
+- `power bi for student performance analysis.pbix` - Power BI dashboard
 - `Student_Performance_Analysis.pptx` - presentation
-
+- `dashboard.png` - dashboard screenshot
